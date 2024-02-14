@@ -2,7 +2,7 @@
 
 Meu nome é Marcelo Fonseca. Venho trabalhando na área de dados desde 2013, iniciei com Business Intelligence e no caminhar desta jornada descobri o universo da Ciência de Dados \o/
 
-Você pode me encontrar em:
+Você pode me encontrar em [marcelofonseca.me](https://marcelofonseca.me) ou nas redes:
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/marcelohfonseca)](https://twitter.com/marcelohfonseca)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelohfonseca)](https://www.linkedin.com/in/marcelohfonseca)
