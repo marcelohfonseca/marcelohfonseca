@@ -1,6 +1,6 @@
 ### Olá pessoal!" \o/ 👋
 
-Meu nome é Marcelo Fonseca. Venho trabalhando na área de dados desde 2013, iniciei com Business Intelligence e no caminhar desta jornada descobri o universo da Ciência de Dados \o/
+Meu nome é Marcelo Fonseca, e tenho trabalhado na área de dados desde 2013. Comecei minha jornada em Business Intelligence e, ao longo do caminho, me apaixonei pelo universo da Ciência de Dados. Atualmente, atuo como Cientista de Dados, focando em Machine Learning, Data Analytics e soluções gerais ligadas a inteligência artificial.
 
 Você pode me encontrar em [marcelofonseca.me](https://marcelofonseca.me) ou nas redes:
 
