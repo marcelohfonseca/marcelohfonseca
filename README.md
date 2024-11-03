@@ -1,8 +1,8 @@
 ### Olá pessoal!" \o/ 👋
 
-Meu nome é Marcelo Fonseca, e tenho trabalhado na área de dados desde 2013. Comecei minha jornada em Business Intelligence e, ao longo do caminho, me apaixonei pelo universo da Ciência de Dados. Atualmente, atuo como Cientista de Dados, focando em Machine Learning, Data Analytics e soluções gerais ligadas a inteligência artificial.
+Sou Marcelo Fonseca, atuo na área de dados desde 2013. Minha jornada começou com Business Intelligence e evoluiu para Ciência de Dados, com foco atual em Machine Learning, Data Analytics e soluções em inteligência artificial.
 
-Você pode me encontrar em [marcelofonseca.me](https://marcelofonseca.me) ou nas redes:
+Mais em [marcelofonseca.me](https://marcelofonseca.me) e redes sociais:
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/marcelohfonseca)](https://twitter.com/marcelohfonseca)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelohfonseca)](https://www.linkedin.com/in/marcelohfonseca)
